@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frappe and ERPNext**
 
-- 💬 Ask me about **Python,Django,Flask,Frappe,ERPNext,RESApi,SQL,HTML,CSS,Bootstrap,JS,Wordpress,**
+- 💬 Ask me about **Python,Django,flask,Frappe,ERPNext,RESApi,SQL,HTML,CSS,Bootstrap,JS,Wordpress,**
 
 - 📫 How to reach me **avishnabsofficial@gmail.com**
 
